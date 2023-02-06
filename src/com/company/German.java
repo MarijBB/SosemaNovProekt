@@ -10,6 +10,8 @@ public class German {
     public static void readBook (String name)
     {System.out.println("Book, " + name);}
 
+    // TODO: ask someone for help
+
     //comentar: news papers list will be updated
     public static void readNewsPaper (String name)
     {System.out.println("NewsPapers, " + name);}
