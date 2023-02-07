@@ -11,7 +11,7 @@ public class German {
     {System.out.println("Book, " + name);}
 
     // TODO: ask someone for help
-
+    // comment: dodaj nesto 
     //comentar: news papers list will be updated
     public static void readNewsPaper (String name)
     {System.out.println("NewsPapers, " + name);}
