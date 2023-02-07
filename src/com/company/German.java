@@ -6,7 +6,7 @@ public class German {
         readBook ("Duden");
         readNewsPaper( "Deutschezeitung");
     }
-    private int page = 45;
+    private int page = 46;
     public static void readBook (String name)
     {System.out.println("Book, " + name);}
 
