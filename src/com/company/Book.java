@@ -1,8 +1,12 @@
 package com.company;
 
+
 public class Book {
     public static void main(String[] args) {
         System.out.println(" Language, Dictionary !!!");
+
+        LearnLanguage("Duden");
+        useDictionery( "Duden2");
     }
     public static void LearnLanguage (String name)
     {

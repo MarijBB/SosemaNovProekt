@@ -15,5 +15,7 @@ public class German {
     //comentar: news papers list will be updated
     public static void readNewsPaper (String name)
     {System.out.println("NewsPapers, " + name);}
+    //todo: print
+
 }
 
