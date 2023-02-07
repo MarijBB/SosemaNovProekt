@@ -7,6 +7,7 @@ public class Book {
 
         LearnLanguage("Duden");
         useDictionery( "Duden2");
+        //todo: check distionary name 
     }
     public static void LearnLanguage (String name)
     {
