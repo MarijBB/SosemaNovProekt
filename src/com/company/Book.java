@@ -14,6 +14,9 @@ public class Book {
         // TODO: Check support for multiple names
         System.out.println(" Language, "+name);
     }
+    public static void goToClass ( String name)
+    { System.out.println("Class, " + name );}
+
     public static void useDictionery (String name)
     {
         // comments: info from meeting on 12.02
