@@ -17,6 +17,10 @@ public class Book {
     public static void goToClass ( String name)
     { System.out.println("Class, " + name );}
 
+    public static void practiseSpeaking (String name)
+    {System.out.println("Language," + name);}
+    // comment: check which language should be tested
+
     public static void useDictionery (String name)
     {
         // comments: info from meeting on 12.02
